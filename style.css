@@ -110,6 +110,23 @@ button:disabled {
     background-color: gray;
 }
 
+.imagem-container{
+    text-align: center;
+}
+
+.container__imagem-pessoa{
+    display: block;
+    margin: 0 auto;
+}
+
+.nome{
+    margin-top: 8px;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    color: yellow;
+
+}
+
 @media screen and (max-width: 1250px) {
 
     h1 {
